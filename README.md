@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Andrea Borda 👋
+Computer Science Graduate | Software Engineer
 
-<!--
-**andreabordaa/andreabordaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Computer Science graduate with a concentration in Software Engineering and a minor in Mathematics. 
+I enjoy building full-stack and mobile applications that are organized, user-friendly, and efficient.
 
-Here are some ideas to get you started:
+- 🎓 B.S. Computer Science (Software Engineering), Minor in Mathematics
+- 💻 Focused on full-stack development and mobile app development
+- ⚡ Interested in building tools that improve organization, productivity, and user experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect
+- LinkedIn: linkedin.com/in/andreaborda
+- Portfolio: andreaborda.vercel.app/
+
